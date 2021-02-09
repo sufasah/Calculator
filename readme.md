@@ -21,7 +21,12 @@ The app is a simple calculator known to that calculates mathematical operations.
 <br/>
 <br/>
 
-:exclamation: ***Usable executable file is named as [HesapMakinesi.exe](HesapMakinesi.exe) in root folder*** :exclamation:
+:exclamation: --------------------------------------------------------------------------------- :exclamation:
+
+- ***Usable executable file is named as [HesapMakinesi.exe](HesapMakinesi.exe) in root folder***
+
+:exclamation: --------------------------------------------------------------------------------- :exclamation:
+
 
 
 ### Screenshots
