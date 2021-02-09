@@ -1,7 +1,7 @@
 ### Project Information
 --- 
 * Project Name: <br/>
-Diet
+Calculator
 <br>
 
 * Project Team: <br/>
@@ -17,7 +17,7 @@ Done, 1 week
 <br>
 
 * Project Description: <br/>
-The app is a simple calculator known to that calculates mathematical operations. Also this is my first app I made.
+The app is a simple calculator known to that calculates mathematical operations. Also this is my first app I made. There is a lot of bug to fix :smile:
 <br/>
 <br/>
 
