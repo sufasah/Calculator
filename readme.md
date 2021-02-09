@@ -1,7 +1,7 @@
 ### Project Information
 --- 
 * Project Name: <br/>
-Diet
+Calculator
 <br>
 
 * Project Team: <br/>
